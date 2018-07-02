@@ -52,5 +52,5 @@ __Responsibilities:__
 
 ### Education:
 
-* 2013 - 2014 - Lugans'kij Deržavnij Pedagogicnij Universitet im. T.G. Ševcenko - __Software Engineering/Master’s degree__
-* 2009 - 2013 - Lugans'kij Deržavnij Pedagogicnij Universitet im. T.G. Ševcenko - __Software Engineering/Bachelor’s degree__
+* 2013 - 2014 - Lugans'kij Deržavnij Pedagogicnij Universitet im. T.G. Ševcenko - Software Engineering/Master’s degree
+* 2009 - 2013 - Lugans'kij Deržavnij Pedagogicnij Universitet im. T.G. Ševcenko - Software Engineering/Bachelor’s degree
