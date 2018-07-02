@@ -57,7 +57,7 @@ __Responsibilities:__
 
 ### Personal projects
 
-* [ACM][https://github.com/evgv/acm] - Small client-side javascript library that makes managing cookies easy.
+* [ACM](https://github.com/evgv/acm) - Small client-side javascript library that makes managing cookies easy.
 
 ### Languages
 
