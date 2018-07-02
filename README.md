@@ -1,6 +1,4 @@
-# Eugene Zubkov
-
-### Position: PHP/Magento developer
+# Eugene Zubkov ( PHP/ Full-Stack Magento developer )
 
 ### Key skills:
 
@@ -56,3 +54,18 @@ __Responsibilities:__
 
 * 2013 - 2014 - Lugans'kij Deržavnij Pedagogicnij Universitet im. T.G. Ševcenko - Software Engineering/Master’s degree
 * 2009 - 2013 - Lugans'kij Deržavnij Pedagogicnij Universitet im. T.G. Ševcenko - Software Engineering/Bachelor’s degree
+
+### Personal projects
+
+* [ACM][https://github.com/evgv/acm] - Small client-side javascript library that makes managing cookies easy.
+
+### Languages
+
+* Ukranian 5/5
+* Russina 5/5
+* English 3/5
+
+
+### Interests
+
+
