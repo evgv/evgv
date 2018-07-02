@@ -1,4 +1,6 @@
-# Eugene Zubkov, position: PHP/Magento developer
+# Eugene Zubkov
+
+### Position: PHP/Magento developer
 
 ### Key skills:
 
