@@ -1,4 +1,21 @@
 # Eugene Zubkov ( PHP/ Full-Stack Magento developer )
+A professional developer with 5+ years of experience
+
+### Follow me
+
+#### General/Social media
+* [Skype](https://skype:zubkoff91?call)
+* [Twitter](https://twitter.com/evgvzubkoff)
+
+#### Coding
+* [Linked In](https://linkedin.com/in/evgvzubkoff)
+* [GitHub](https://github.com/evgv)
+* [Code Wars](https://www.codewars.com/users/evgv)
+
+#### Creative media
+* [Instagram](https://www.instagram.com/evgvzubkoff/)
+
+
 
 ### Key skills:
 
@@ -68,4 +85,8 @@ __Responsibilities:__
 
 ### Interests
 
+* Big Data 
+* SPA 
+* Blockchain
+* Traithlon
 
