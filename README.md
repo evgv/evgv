@@ -20,9 +20,9 @@
 
 #### 2016 – present – PHP / Magento  developer  (Soft-loft) 
 
-*Technologies:* PHP, MySQL, JS (jQuery/PrototypeJs/RequireJs + Gulp/Grunt), HTML/CSS, CMS Magento 1.x/2.x, Composer,  SOAP, XML, REST, Git
+__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs/RequireJs + Gulp/Grunt), HTML/CSS, CMS Magento 1.x/2.x, Composer,  SOAP, XML, REST, Git
 
-*Responsibilities:*
+__Responsibilities:__
 * Create sites from scratch;
 * Extension development;
 * Integration of 3rd party applications;
@@ -33,9 +33,9 @@
 
 #### 2014 – 2016 –  PHP / Magento  developer  (SYSINT) 
 
-*Technologies:* PHP, MySQL, JS (jQuery/PrototypeJs), HTML/CSS, CMS Magento 1.x,  SOAP, XML, Git
+__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs), HTML/CSS, CMS Magento 1.x,  SOAP, XML, Git
 
-*Responsibilities:*
+__Responsibilities:__
 * Create sites from scratch;
 * Extension development;
 * Integration of 3rd party applications;
@@ -43,14 +43,14 @@
 
 #### 2013-2014 – PHP developer (University / Freelance)
 
-*Technologies:* PHP, MySQL, JS (jQuery), CMS OpenCart, Drupal 6, Kohana
+__Technologies:__ PHP, MySQL, JS (jQuery), CMS OpenCart, Drupal 6, Kohana
 
-*Responsibilities:*
+__Responsibilities:__
 * Create sites from scratch;
 * Technical support and maintenance
 
 
 ### Education:
 
-* 2013 - 2014 - Lugans'kij Deržavnij Pedagogicnij Universitet im. T.G. Ševcenko - Software Engineering/Master’s degree
-* 2009 - 2013 - Lugans'kij Deržavnij Pedagogicnij Universitet im. T.G. Ševcenko - Software Engineering/Bachelor’s degree
+* 2013 - 2014 - Lugans'kij Deržavnij Pedagogicnij Universitet im. T.G. Ševcenko - __Software Engineering/Master’s degree__
+* 2009 - 2013 - Lugans'kij Deržavnij Pedagogicnij Universitet im. T.G. Ševcenko - __Software Engineering/Bachelor’s degree__
