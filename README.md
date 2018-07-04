@@ -4,7 +4,7 @@ A professional developer with 5+ years of experience
 ### Follow me
 
 #### General/Social media
-* [Skype](callto:<zubkoff91>?call)
+* [Skype](skype:zubkoff91?call)
 * [Twitter](https://twitter.com/evgvzubkoff)
 
 #### Coding
@@ -20,6 +20,7 @@ A professional developer with 5+ years of experience
 ### Key skills:
 
 * PHP (5.x,7.x), ZF, Laravel
+* Python, Flask, SQLAlchemy
 * JS, Ajax, jQuery, PrototypeJs, RequireJs, Node.js (Express.js), Vue.js
 * HTML4/5, CSS3 SASS/LESS, Skeleton
 * CMS: Magento(1.x, 2.x), Wordpress
