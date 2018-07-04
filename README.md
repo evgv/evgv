@@ -4,7 +4,7 @@ A professional developer with 5+ years of experience
 ### Follow me
 
 #### General/Social media
-* [Skype](https://skype:zubkoff91?call)
+* [Skype](skype:zubkoff91?call)
 * [Twitter](https://twitter.com/evgvzubkoff)
 
 #### Coding
