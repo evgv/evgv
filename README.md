@@ -95,3 +95,6 @@ __Responsibilities:__
 ### Hobby
  * Traithlon
 
+
+### Other
+ * [Eugene Zubkov Talks About Magento 2 & The Ecommerce Industry](https://www.cloudways.com/blog/eugene-zubkov-interview/)
