@@ -20,12 +20,12 @@ A professional developer with 5+ years of experience
 ### Key skills:
 
 * PHP (5.x,7.x), ZF, Laravel
-* Python, Flask, SQLAlchemy
-* JS, Ajax, jQuery, PrototypeJs, RequireJs, Node.js (Express.js), Vue.js
+* ~~Python, Flask, SQLAlchemy~~
+* JS, Ajax, jQuery, PrototypeJs, RequireJs, ~~Node.js (Express.js), Vue.js~~
 * HTML4/5, CSS3 SASS/LESS, Skeleton
 * CMS: Magento(1.x, 2.x), Wordpress
 * API: XML, SOAP, REST
-* DB: MySQL, NoSQL(MongoDB) 
+* DB: MySQL, ~~NoSQL(MongoDB)~~
 * Web Server: Apache/Nginx
 * OS:  Linux (deb/rpm), Windows
 * VCS: Git
@@ -33,6 +33,7 @@ A professional developer with 5+ years of experience
 * Toolkit:  Gulp, Grant
 * Other: Elasticsearch, Varnish, MTA Postfix
 
+~~skill~~ - not use now
 
 ### Work experience: 
 
@@ -89,5 +90,8 @@ __Responsibilities:__
 * Big Data 
 * SPA 
 * Blockchain
-* Traithlon
+* JAM stack
+
+### Hobby
+ * Traithlon
 
