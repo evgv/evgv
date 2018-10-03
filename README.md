@@ -23,7 +23,7 @@ A professional developer with 5+ years of experience
 * ~~Python, Flask, SQLAlchemy~~
 * JS, Ajax, jQuery, PrototypeJs, RequireJs, ~~Node.js (Express.js), Vue.js~~
 * HTML4/5, CSS3 SASS/LESS, Skeleton
-* CMS: Magento(1.x, 2.x), Wordpress
+* CMS: Magento 1.x, 2.x (jr), Wordpress
 * API: XML, SOAP, REST
 * DB: MySQL, ~~NoSQL(MongoDB)~~
 * Web Server: Apache/Nginx
