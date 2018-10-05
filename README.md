@@ -19,7 +19,7 @@ A professional developer with 5+ years of experience
 
 ### Key skills:
 
-* PHP (5.x,7.x), ZF, Laravel
+* PHP (5.x,7.x), ZF, ~~Laravel~~
 * ~~Python, Flask, SQLAlchemy~~
 * JS, Ajax, jQuery, PrototypeJs, RequireJs, ~~Node.js (Express.js), Vue.js~~
 * HTML4/5, CSS3 SASS/LESS, Skeleton
