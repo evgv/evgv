@@ -76,7 +76,8 @@ __Responsibilities:__
 
 ### Personal projects
 
-* [ACM](https://github.com/evgv/acm) - Small client-side javascript library that makes managing cookies easy.
+* [ACM](https://www.npmjs.com/package/advanced-cookie-manager) - Small client-side javascript library that makes managing cookies easy.
+* [UA Cities (demo)](https://ua-cities.herokuapp.com/)
 
 ### Languages
 
@@ -93,7 +94,10 @@ __Responsibilities:__
 * JAM stack
 
 ### Hobby
- * Traithlon
+
+ * Swim
+ * Bike
+ * Run
 
 
 ### Other
