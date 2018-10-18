@@ -1,4 +1,4 @@
-# Eugene Zubkov ( PHP/ Full-Stack Magento developer )
+# Eugene Zubkov ( Web Developer | Magento Specialist | PHP | E-commerce)
 A professional developer with 5+ years of experience
 
 ### Follow me
