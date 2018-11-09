@@ -40,7 +40,7 @@ A professional developer with 5+ years of experience
 
 ### Work experience: 
 
-#### 2016 – present – PHP / Magento  developer  (Soft-loft) 
+#### 2016 – 2018 – PHP / Magento  developer  (Soft-loft) 
 
 __Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs/RequireJs + Gulp/Grunt), HTML/CSS, CMS Magento 1.x/2.x, Composer,  SOAP, XML, REST, Git
 
