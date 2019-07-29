@@ -1,5 +1,5 @@
 # Eugene Zubkov
-### Web Developer | PHP | E-commerce | Magento Specialist
+### Web Developer | E-commerce Expert | Magento Specialist
 A professional developer with 5+ years of experience
     
        
@@ -40,9 +40,24 @@ A professional developer with 5+ years of experience
 
 ### Work experience: 
 
+#### 2018 – present – Magento  developer / Team Lead  (Svitla Systems, Inc.) 
+
+__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs/RequireJs + Gulp/Grunt), HTML/CSS, CMS Magento 1.x/2.x, Composer,  SOAP, XML, REST, Git, 
+
+__Responsibilities:__
+* Requirements analysis and technical design of the software solutions in collaboration with the development team 
+* Leadership of a team of mid-level and junior developers, mentoring the developers 
+* Responsible for major technical decisions in the development process 
+* Software quality assurance (audits, code reviews, testing, etc) 
+* Contributes to the corporate IT infrastructure in regards to the automation software and tools, optimization of the structure and processes
+* Extension development 
+* Integration of 3rd party applications 
+* Technical support and maintenance
+
+
 #### 2016 – 2018 – PHP / Magento  developer  (Soft-loft) 
 
-__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs/RequireJs + Gulp/Grunt), HTML/CSS, CMS Magento 1.x/2.x, Composer,  SOAP, XML, REST, Git
+__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs/RequireJs + Gulp/Grunt), HTML/CSS, CMS Magento 1.x/2.x, Composer,  SOAP, XML, REST, AWS
 
 __Responsibilities:__
 * Create sites from scratch;
@@ -55,7 +70,7 @@ __Responsibilities:__
 
 #### 2014 – 2016 –  PHP / Magento  developer  (SYSINT) 
 
-__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs), HTML/CSS, CMS Magento 1.x,  SOAP, XML, Git
+__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs), HTML/CSS, CMS Magento 1.x,  SOAP, XML, Git, Team City
 
 __Responsibilities:__
 * Create sites from scratch;
