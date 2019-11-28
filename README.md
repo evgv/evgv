@@ -7,7 +7,7 @@ A professional developer with 5+ years of experience
 ### Follow me
 
 #### General/Social media
-* [Skype](skype:zubkoff91?call)
+* [Skype](https://skype:zubkoff91?call)
 * [Twitter](https://twitter.com/evgvzubkoff)
 
 #### Coding
@@ -42,7 +42,7 @@ A professional developer with 5+ years of experience
 
 #### 2018 – present – Magento  developer / Team Lead  (Svitla Systems, Inc.) 
 
-__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs/RequireJs + Gulp/Grunt), HTML/CSS, CMS Magento 1.x/2.x, Composer,  SOAP, XML, REST, Git, 
+__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs/RequireJs + Gulp/Grunt), HTML/CSS, CMS Magento 1.x, Composer,  SOAP, XML, REST, Git, Vagrant, AWS, BB
 
 __Responsibilities:__
 * Requirements analysis and technical design of the software solutions in collaboration with the development team 
@@ -57,7 +57,7 @@ __Responsibilities:__
 
 #### 2016 – 2018 – PHP / Magento  developer  (Soft-loft) 
 
-__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs/RequireJs + Gulp/Grunt), HTML/CSS, CMS Magento 1.x/2.x, Composer,  SOAP, XML, REST, AWS
+__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs/RequireJs + Gulp/Grunt), HTML/CSS, CMS Magento 1.x/2.x, Composer,  SOAP, XML, REST, AWS, GitLab
 
 __Responsibilities:__
 * Create sites from scratch;
@@ -70,7 +70,7 @@ __Responsibilities:__
 
 #### 2014 – 2016 –  PHP / Magento  developer  (SYSINT) 
 
-__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs), HTML/CSS, CMS Magento 1.x,  SOAP, XML, Git, Team City
+__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs), HTML/CSS, CMS Magento 1.x,  SOAP, XML, Git, Team City, BB
 
 __Responsibilities:__
 * Create sites from scratch;
