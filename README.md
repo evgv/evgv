@@ -16,8 +16,8 @@ A professional developer with 5+ years of experience
 #### Creative media
 * [Instagram](https://www.instagram.com/evgvzubkoff/)
 
-### Contacts
-* mssgSkype: `zubkoff91`
+#### Contacts
+* Skype: `zubkoff91`
 
 
 
