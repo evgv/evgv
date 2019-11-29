@@ -108,8 +108,6 @@ __Responsibilities:__
 ### Interests
 
 * Big Data 
-* SPA 
-* Blockchain
 * JAM stack
 
 ### Hobby
