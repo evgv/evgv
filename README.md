@@ -41,22 +41,22 @@ A professional developer with 5+ years of experience
 
 ### Work experience: 
 
-#### 2018 – present – Magento  developer / Team Lead  (Svitla Systems, Inc.) 
+#### 2018 – present – Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/)) 
 
-__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs/RequireJs + Gulp/Grunt), HTML/CSS, CMS Magento 1.x, Composer,  SOAP, XML, REST, Git, Vagrant, AWS, BB
+__Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs + Grunt/Bower), HTML/CSS, CMS Magento 1.x, Composer,  SOAP, XML, REST, Git, Vagrant, AWS, BB
 
 __Responsibilities:__
-* Requirements analysis and technical design of the software solutions in collaboration with the development team 
-* Leadership of a team of mid-level and junior developers, mentoring the developers 
-* Responsible for major technical decisions in the development process 
-* Software quality assurance (audits, code reviews, testing, etc) 
-* Contributes to the corporate IT infrastructure in regards to the automation software and tools, optimization of the structure and processes
-* Extension development 
-* Integration of 3rd party applications 
-* Technical support and maintenance
+* Requirements analysis and technical design of the software solutions in collaboration with the development team;
+* Leadership of a team of mid-level and junior developers, mentoring the developers;
+* Responsible for major technical decisions in the development process;
+* Software quality assurance (audits, code reviews, testing, etc);
+
+* Extension development;
+* Integration of 3rd party applications; 
+* Technical support and maintenance.
 
 
-#### 2016 – 2018 – PHP / Magento  developer  (Soft-loft) 
+#### 2016 – 2018 – PHP / Magento  developer  ([SoftLoft](https://soft-loft.com/)) 
 
 __Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs/RequireJs + Gulp/Grunt), HTML/CSS, CMS Magento 1.x/2.x, Composer,  SOAP, XML, REST, AWS, GitLab
 
@@ -64,12 +64,12 @@ __Responsibilities:__
 * Create sites from scratch;
 * Extension development;
 * Integration of 3rd party applications;
-* Technical support and maintenance
-* Data migration
-* Mentorship
+* Technical support and maintenance;
+* Data migration;
+* Mentoring.
 
 
-#### 2014 – 2016 –  PHP / Magento  developer  (SYSINT) 
+#### 2014 – 2016 –  PHP / Magento  developer  ([SYSINT](https://sysint.net/)) 
 
 __Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs), HTML/CSS, CMS Magento 1.x,  SOAP, XML, Git, Team City, BB
 
@@ -77,7 +77,8 @@ __Responsibilities:__
 * Create sites from scratch;
 * Extension development;
 * Integration of 3rd party applications;
-* Technical support and maintenance
+* Technical support and maintenance;
+* Mentoring.
 
 #### 2013-2014 – PHP developer (University / Freelance)
 
@@ -85,7 +86,7 @@ __Technologies:__ PHP, MySQL, JS (jQuery), CMS OpenCart, Drupal 6, Kohana
 
 __Responsibilities:__
 * Create sites from scratch;
-* Technical support and maintenance
+* Technical support and maintenance.
 
 
 ### Education:
@@ -97,6 +98,11 @@ __Responsibilities:__
 
 * [ACM](https://www.npmjs.com/package/advanced-cookie-manager) - Small client-side javascript library that makes managing cookies easy.
 * [UA Cities (demo)](https://ua-cities.herokuapp.com/)
+
+* [Magento 1.x - Google Dynamic Remarketing](https://github.com/evgv/magento-google-dynamic-remarketing) 
+* [Magento 1.x - Privatbank Privat24 Payment](https://github.com/evgv/magento-p24-acquire)
+
+* [Other](https://github.com/evgv?tab=repositories)
 
 ### Languages
 
