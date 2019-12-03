@@ -41,7 +41,7 @@ A professional developer with 5+ years of experience
 
 ### Work experience: 
 
-#### 2018 – present – Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/)) 
+#### 2018 – present – PHP / Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/)) 
 
 __Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs + Grunt/Bower), HTML/CSS, CMS Magento 1.x, Composer,  SOAP, XML, REST, Git, Vagrant, AWS, BB
 
