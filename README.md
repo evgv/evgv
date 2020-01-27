@@ -81,7 +81,7 @@ __Responsibilities:__
 * Creating API for mobile applications;
 * Mentorship.
 
-### 2016 - 2016 - PHP / Magento  developer  ([Electrograd](https://electrograd.com/) / Contract) 
+#### 2016 - 2016 - PHP / Magento  developer  ([Electrograd](https://electrograd.com/) / Contract) 
 
 __Description:__
 I joined the project at a time when employees did not have developers familiar with this content management system.
