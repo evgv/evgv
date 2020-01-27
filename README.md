@@ -46,7 +46,7 @@ A professional developer with 5+ years of experience
 
 __Description:__
 I headed the backend department on the project, mainly engaged in code review, code delivery, technical advising, task estimation, release planning (with PM and scrum master), tasks allocation, communication with the team from all departments of our project, consultations with the SA about global project issues, etc.
-I also engaged in developing the backend for some solutions on a project that required my intervention.
+I also was engaged in developing for some solutions on the project that required my intervention.
 
 __Technologies:__ PHP 5.x, MySQL 5.x, CMS Magento EE 1.x, JS (jQuery/PrototypeJS), Npm / Yarn / Grunt / Bower, SOAP / REST, Redis, Vagrant / Docker, Apache, Git, BB, Ubuntu / Red Hat Enterprise Linux Server, AWS, Rackspace, Jira, SCRUM
 
