@@ -23,11 +23,11 @@ A professional developer with 5+ years of experience
 
 ### Key skills:
 
-* *PHP* (5.x,7.x), ZF, ~~Laravel~~
+* __PHP__ (5.x,7.x), ZF, ~~Laravel~~
 * ~~Python, Flask, SQLAlchemy~~
 * JS: Ajax, jQuery, PrototypeJs, RequireJs, ~~NodeJS (Express), VueJS, KnockoutJS~~
 * HTML, CSS Sass/LESS, Skeleton CSS
-* CMS: *Magento* 1.x, 2.x, ~~Wordpress~~
+* CMS: __Magento__ 1.x, 2.x, ~~Wordpress~~
 * API: XML, SOAP, REST, SalesFOrce
 * DB: MySQL, ~~MariaDB, NoSQL(MongoDB)~~
 * Web Server: Apache/Nginx
