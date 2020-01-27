@@ -25,6 +25,7 @@ A professional developer with 5+ years of experience
 
 * __PHP__ (5.x,7.x), ZF, ~~Laravel~~
 * ~~Python, Flask, SQLAlchemy~~
+* ~~Go~~
 * JS: Ajax, jQuery, PrototypeJs, RequireJs, ~~NodeJS (Express), VueJS, KnockoutJS~~
 * HTML, CSS Sass/LESS, Skeleton CSS
 * CMS: __Magento__ 1.x, 2.x, ~~Wordpress~~
@@ -37,7 +38,7 @@ A professional developer with 5+ years of experience
 * Toolkit:  Gulp, Grant, Bower
 * Other: Elasticsearch, Sphinx, Varnish, MTA Postfix, Redis, AWS, Vagrant, Docker
 
-~~skill~~ - not use now
+~~skill~~ - not use now (low level)
 
 ### Work experience: 
 
