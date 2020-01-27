@@ -41,7 +41,7 @@ A professional developer with 5+ years of experience
 
 ### Work experience: 
 
-#### 2018 – present – PHP / Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/) / outstaff [Astound Commerce](https://astoundcommerce.com/) / Fulltime (remote)) 
+#### 2018 – present - PHP / Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/) / outstaff [Astound Commerce](https://astoundcommerce.com/) / Fulltime / Remote) 
 
 __Description:__
 I headed the backend department on the project, mainly engaged in code review, code delivery, technical advising, task estimation, release planning (with PM and scrum master), tasks allocation, communication with the team from all departments of our project, consultations with the SA about global project issues, etc.
@@ -59,7 +59,7 @@ __Responsibilities:__
 * Technical support and maintenance.
 
 
-#### 2016 – 2018 – PHP / Magento  developer  ([SYSINT](https://sysint.net/) / outstaff [SoftLoft](https://soft-loft.com/)/ Fulltime) 
+#### 2016 – 2018 – PHP / Magento  developer  ([SYSINT](https://sysint.net/) / outstaff [SoftLoft](https://soft-loft.com/) / Fulltime) 
 
 __Description:__
 The main thing is the backend development for Magento 1 and partially for the 2nd version.
@@ -128,8 +128,8 @@ __Responsibilities:__
 
 ### Education:
 
-* 2013 - 2014 - Lugans'kij Deržavnij Pedagogicnij Universitet im. T.G. Ševcenko - Software Engineering/Master’s degree
-* 2009 - 2013 - Lugans'kij Deržavnij Pedagogicnij Universitet im. T.G. Ševcenko - Software Engineering/Bachelor’s degree
+* 2013 - 2014 - Luhansk Taras Shevchenko National University - Software Engineering / Master’s degree (avg 4.9/5)
+* 2009 - 2013 - Luhansk Taras Shevchenko National University - Software Engineering / Bachelor’s degree (avg 4/5)
 
 ### Personal projects
 
