@@ -41,7 +41,7 @@ A professional developer with 5+ years of experience
 
 ### Work experience: 
 
-#### 2018 – present – PHP / Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/)) 
+#### 2018 – present – PHP / Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/) / outstaff [Astound Commerce](https://astoundcommerce.com/)) 
 
 __Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs + Grunt/Bower), HTML/CSS, CMS Magento 1.x, Composer,  SOAP, XML, REST, Git, Vagrant, AWS, BB
 
@@ -56,7 +56,7 @@ __Responsibilities:__
 * Technical support and maintenance.
 
 
-#### 2016 – 2018 – PHP / Magento  developer  ([SoftLoft](https://soft-loft.com/)) 
+#### 2016 – 2018 – PHP / Magento  developer  ([SYSINT](https://sysint.net/) / outstaff [SoftLoft](https://soft-loft.com/)) 
 
 __Technologies:__ PHP, MySQL, JS (jQuery/PrototypeJs/RequireJs + Gulp/Grunt), HTML/CSS, CMS Magento 1.x/2.x, Composer,  SOAP, XML, REST, AWS, GitLab
 
