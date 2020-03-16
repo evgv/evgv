@@ -11,7 +11,8 @@ A professional developer with 5+ years of experience
 
 #### Coding
 * [GitHub](https://github.com/evgv)
-* [Code Wars](https://www.codewars.com/users/evgv)
+* [Codewars](https://www.codewars.com/users/evgv)
+* [HackerRank](https://www.hackerrank.com/evgvzubkoff)
 
 #### Creative media
 * [Instagram](https://www.instagram.com/evgvzubkoff/)
@@ -26,11 +27,11 @@ A professional developer with 5+ years of experience
 * __PHP__ (5.x,7.x), ZF, ~~Laravel~~
 * ~~Python, Flask, SQLAlchemy~~
 * ~~Go~~
-* JS: Ajax, jQuery, PrototypeJs, RequireJs, ~~NodeJS (Express), VueJS, KnockoutJS~~
+* JS: Ajax, jQuery/UI, PrototypeJs, RequireJs, KnockoutJS, ~~NodeJS (Express), VueJS~~
 * HTML, CSS Sass/LESS, Skeleton CSS
 * CMS: __Magento__ 1.x, 2.x, ~~Wordpress~~
-* API: XML, SOAP, REST, SalesFOrce
-* DB: MySQL, ~~MariaDB, NoSQL(MongoDB)~~
+* API: XML, SOAP, REST, Sales Force
+* DB: MySQL, MariaDB, ~~NoSQL(MongoDB)~~
 * Web Server: Apache/Nginx
 * OS:  Linux (deb/rpm), Windows
 * VCS: Git
@@ -42,7 +43,7 @@ A professional developer with 5+ years of experience
 
 ### Work experience: 
 
-#### 2018 – present - PHP / Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/) / outstaff [Astound Commerce](https://astoundcommerce.com/) / Fulltime / Remote) 
+#### 2018 – 2020 - PHP / Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/) / outstaff [Astound Commerce](https://astoundcommerce.com/) / Fulltime / Remote) 
 
 __Description:__
 I headed the backend department on the project, mainly engaged in code review, code delivery, technical advising, task estimation, release planning (with PM and scrum master), tasks allocation, communication with the team from all departments of our project, consultations with the SA about global project issues, etc.
