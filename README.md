@@ -43,6 +43,19 @@ A professional developer with 5+ years of experience
 
 ### Work experience: 
 
+#### 2020 - present - PHP / Magento  developer ([Magecom](https://magecom.net/) Fulltime / Remote)
+
+__Description:__
+BE development for Magento 2
+
+__Technologies:__ PHP 5.x / 7.x, MariaDB, CMS Magento 2.x CE, JS, SOAP / REST, PHPCS/PHPMD, Docker, Nginx, Git, Gitlab, Ubuntu, Jira, SCRUM, OOP / SOLID
+
+__Responsibilities:__
+* create e-commerce stores from scratch;
+* extensions development;
+* integration of 3rd party applications;
+* technical support and maintenance.
+
 #### 2018 – 2020 - PHP / Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/) / outstaff [Astound Commerce](https://astoundcommerce.com/) / Fulltime / Remote) 
 
 __Description:__
