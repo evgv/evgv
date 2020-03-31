@@ -37,7 +37,7 @@ A professional developer with 5+ years of experience
 * VCS: Git
 * DM:  Composer, npm, yarn
 * Toolkit:  Gulp, Grant, Bower
-* Other: Elasticsearch, Sphinx, Varnish, MTA Postfix, Redis, AWS, Vagrant, Docker
+* Other: Elasticsearch, Sphinx, Varnish, MTA Postfix, Redis, AWS, Vagrant, Docker, SCRUM, OOP, SOLID
 
 ~~skill~~ - not use now (low level)
 
