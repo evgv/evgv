@@ -158,9 +158,9 @@ __Responsibilities:__
 
 ### Languages
 
-* Ukranian 5/5
-* Russina 5/5
-* English 3/5
+* Ukranian - Native
+* Russian - Native
+* English - Intermediate
 
 
 ### Interests
