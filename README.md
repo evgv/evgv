@@ -164,8 +164,7 @@ __Responsibilities:__
 
 
 ### Interests
-
-* Big Data 
+* Ecom
 * JAM stack
 
 ### Hobby
