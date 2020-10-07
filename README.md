@@ -1,3 +1,5 @@
+![](assets/animation.gif)
+
 # Eugene Zubkov
 ### Web Developer | E-commerce Expert | Magento Specialist
 A professional developer with 5+ years of experience
