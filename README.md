@@ -53,10 +53,11 @@ BE development for Magento 2
 __Technologies:__ PHP 5.x / 7.x, MariaDB, CMS Magento 2.x CE, JS, SOAP / REST, PHPCS/PHPMD, Docker, Nginx, Git, Gitlab, Ubuntu, Jira, SCRUM, OOP / SOLID
 
 __Responsibilities:__
-* create e-commerce stores from scratch;
-* extensions development;
-* integration of 3rd party applications;
-* technical support and maintenance.
+* Create e-commerce stores from scratch;
+* Extensions development;
+* Integration of 3rd party applications;
+* Migrations 1.x/2.x and 2.x/2.x;
+* Technical support and maintenance.
 
 #### 2018 – 2020 - PHP / Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/) / outstaff [Astound Commerce](https://astoundcommerce.com/) / Fulltime / Remote) 
 
