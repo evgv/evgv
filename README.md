@@ -82,7 +82,7 @@ __Responsibilities:__
 __Description:__
 The main thing is the backend development for Magento 1 and partially for the 2nd version.
 
-Over the years, we have been developing and supporting about a hundred electronic stores by our team for countries such as Ukraine, Russia, Germany, Denmark, Italy, France, Canada, the USA, Kuwait and others.
+Over the years, we have been developing and supporting about a hundred ecom stores by our team for countries such as Ukraine, Russia, Germany, Denmark, Italy, France, Canada, the USA, Kuwait and others.
 
 In addition, he was involved in modifying the Mantis task system developed with PHP without using an object-oriented approach.
 
