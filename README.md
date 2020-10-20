@@ -42,6 +42,7 @@ A professional developer with 5+ years of experience
 * Other: Elasticsearch, Sphinx, Varnish, MTA Postfix, Redis, AWS, Vagrant, __Docker__, SCRUM, OOP, SOLID
 
 ~~skill~~ - not using now
+__bold__ - main stack
 
 ### Work experience: 
 
