@@ -46,7 +46,7 @@ __bold__ - main stack
 
 ### Work experience: 
 
-#### 2020 - present - PHP / Magento  developer ([Magecom](https://magecom.net/) Fulltime / Remote)
+#### 2020 - 2021 - PHP / Magento  developer ([Magecom](https://magecom.net/) Fulltime / Remote)
 
 __Description:__
 BE development for Magento 2
