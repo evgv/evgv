@@ -29,27 +29,49 @@ A professional developer with 5+ years of experience
 * __PHP__ (5.x,7.x), ZF, ~~Laravel~~
 * ~~Python, Flask, SQLAlchemy~~
 * ~~Go~~
-* __JS__, Ajax, jQuery/UI, PrototypeJs, RequireJs, KnockoutJS, ~~NodeJS (Express), VueJS~~
+* __JS__, Ajax, jQuery/UI, PrototypeJs, RequireJs, KnockoutJS, React JS ~~NodeJS (Express), VueJS~~
 * HTML, CSS Sass/LESS, Skeleton CSS
 * DB: __MySQL__, MariaDB, ~~NoSQL(MongoDB)~~
-* CMS: __Magento__ 1.x, 2.x, ~~Wordpress~~
-* API: XML, SOAP, REST, Sales Force
+* CMS: __Magento__ 1.x, 2.x, Cloud, ~~Wordpress~~
+* API: XML, SOAP, REST, Sales Force, GraphQL
 * Web Server: Apache/Nginx
 * OS:  __Linux (deb/rpm)__, Windows
 * VCS: Git
 * DM:  Composer, npm, yarn
 * Toolkit:  Gulp, Grant, Bower
-* Other: Elasticsearch, Sphinx, Varnish, MTA Postfix, Redis, AWS, Vagrant, __Docker__, SCRUM, OOP, SOLID
+* Other: Elasticsearch, Sphinx, Varnish, MTA Postfix, Redis, Fastly, AWS, Vagrant, __Docker__, SCRUM, OOP, SOLID
 
 ~~skill~~ - not using now
 __bold__ - main stack
 
 ### Work experience: 
 
+#### 2021 - nowadays - PHP / Softwear Engineer ([Ciklum](https://www.ciklum.com/) / outstaff [Chantelle](https://group.chantellelingerie.com/) Fulltime / Remote)
+__Description:__
+I joined the project during the first iteration of migration M1 stores to M2 there my team and me have been challenging the whole time till release but managed it successfully.
+
+Also I was engaged into very sensitive part of the project, Payment :)
+
+Afters successfull release I was moved to sub-team that only works on migrations because we still had a lot of work and websites that needed to be migrated / merged (it's an additional big story) into our brand new main website.
+
+
+__Technologies:__ PHP 5.x/ 7.x, MySQL 5.x, CMS Magento EE 2.x / Magento Cloud, React JS, Npm / Yarn, GraphQL / REST, Redis, Docker, Nginx, Git, BB, Ubuntu, Jira, SCRUM
+
+__Responsibilities:__
+* M1 -> M2 migration / merging
+* Requirements analysis and technical design of the software solutions in collaboration with the development team;
+* Software quality assurance (audits, code reviews, testing, etc);
+* Extension development;
+* Integration of 3rd party applications; 
+* Technical support and maintenance.
+
 #### 2020 - 2021 - PHP / Magento  developer ([Magecom](https://magecom.net/) Fulltime / Remote)
 
 __Description:__
-BE development for Magento 2
+BE development for Magento 2 
+
+Last half year in company I was a part of e-com BROCARD team.
+[BROCARD Ukraine](https://www.brocard.ua/) is the largest operator of the perfumery and cosmetic market of Ukraine in the luxury segment.
 
 __Technologies:__ PHP 5.x / 7.x, MariaDB, CMS Magento 2.x CE, JS, SOAP / REST, PHPCS/PHPMD, Docker, Nginx, Git, Gitlab, Ubuntu, Jira, SCRUM, OOP / SOLID
 
@@ -58,12 +80,19 @@ __Responsibilities:__
 * Extensions development;
 * Integration of 3rd party applications;
 * Migrations 1.x/2.x and 2.x/2.x;
-* Technical support and maintenance.
+* Technical support and maintenance;
+* Framework customization;
+* Code standards creation.
 
 #### 2018 – 2020 - PHP / Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/) / outstaff [Astound Commerce](https://astoundcommerce.com/) / Fulltime / Remote) 
 
 __Description:__
-I headed the backend department on the project, mainly engaged in code review, code delivery, technical advising, task estimation, release planning (with PM and scrum master), tasks allocation, communication with the team from all departments of our project, consultations with the SA about global project issues, etc.
+Development and support of online stores for a huge multinational company with a worldwide reputation (name was slipped because of NDA).
+We were engaged in the representations of e-commerce team for half of the European countries, Denmark, New Zealand, Mexico, Russia and Kazakhstan.
+Development was in a huge team, which in turn was divided into departments, I was engaged in backend development for this project.
+Basically, it was the development of individual modules and integration with third-party services.
+
+Last year on project I headed the backend department, mainly engaged in code review, code delivery, technical advising, task estimation, release planning (with PM and scrum master), tasks allocation, communication with the team from all departments of our project, consultations with the SA about global project issues, etc.
 I also was engaged in developing for some solutions on the project that required my intervention.
 
 __Technologies:__ PHP 5.x, MySQL 5.x, CMS Magento EE 1.x, JS (jQuery/PrototypeJS), Npm / Yarn / Grunt / Bower, SOAP / REST, Redis, Vagrant / Docker, Apache, Git, BB, Ubuntu / Red Hat Enterprise Linux Server, AWS, Rackspace, Jira, SCRUM
