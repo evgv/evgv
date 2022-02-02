@@ -33,7 +33,7 @@ A professional developer with 7+ years of experience
 * HTML, CSS Sass/LESS, Skeleton CSS
 * DB: __MySQL__, MariaDB, ~~NoSQL(MongoDB)~~
 * CMS: __Magento__ 1.x, 2.x, Cloud, ~~Wordpress~~
-* API: XML, SOAP, REST, Sales Force, GraphQL
+* API: XML, SOAP, REST, Sales Force, __GraphQL__
 * Web Server: Apache/Nginx
 * OS:  __Linux (deb/rpm)__, Windows
 * VCS: Git
