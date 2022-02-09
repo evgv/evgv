@@ -48,8 +48,8 @@ A professional developer with 7+ years of experience
 
 Key skills legend
 
-~~skill~~ - not using now
-__bold__ - main stack
+ ~~skill~~ - not using now
+ __bold__ - main stack
 
 ### Work experience: 
 
