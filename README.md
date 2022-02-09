@@ -46,6 +46,8 @@ A professional developer with 7+ years of experience
 * Cloud: Fastly, AWS, Magento Cloud
 * Other: Varnish
 
+Key skills legend
+
 ~~skill~~ - not using now
 __bold__ - main stack
 
