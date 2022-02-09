@@ -29,17 +29,22 @@ A professional developer with 7+ years of experience
 * __PHP__ (5.x,7.x), ZF, ~~Laravel~~
 * ~~Python, Flask, SQLAlchemy~~
 * ~~Go~~
-* __JS__, Ajax, jQuery/UI, PrototypeJs, RequireJs, KnockoutJS, React JS ~~NodeJS (Express), VueJS~~
-* HTML, CSS Sass/LESS, Skeleton CSS
-* DB: __MySQL__, MariaDB, ~~NoSQL(MongoDB)~~
-* CMS: __Magento__ 1.x, 2.x, Cloud, ~~Wordpress~~
+* __JS__, Ajax, jQuery/UI, PrototypeJs, RequireJs, KnockoutJS, React JS, ~~NodeJS (Express), VueJS~~
+* HTML, CSS Sass/LESS, Skeleton CSS, Bootstrap
+* DB: __MySQL__, MariaDB, ~~MongoDB~~, Redis
+* CMS: __Magento 1.x/2.x/Cloud__, ~~Wordpress~~
 * API: XML, SOAP, REST, Sales Force, __GraphQL__
-* Web Server: Apache/Nginx
+* Web Server: Lighttpd, __Apache__, __Nginx__, GO HTTP
+* Search Engine: Elasticsearch, Sphinx
 * OS:  __Linux (deb/rpm)__, Windows
 * VCS: Git
 * DM:  Composer, npm, yarn
 * Toolkit:  Gulp, Grant, Bower
-* Other: Elasticsearch, Sphinx, Varnish, MTA Postfix, Redis, Fastly, AWS, Vagrant, __Docker__, SCRUM, OOP, SOLID
+* Env: VMware, Oracle VM Box, Vagrant, __Docker__
+* SEP: OOP, KISS, DRY, SOLID
+* SDP: Agile, SCRUM, Kanban
+* Cloud: Fastly, AWS, Magento Cloud
+* Other: Varnish
 
 ~~skill~~ - not using now
 __bold__ - main stack
