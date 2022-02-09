@@ -30,7 +30,7 @@ A professional developer with 7+ years of experience
 * ~~Python, Flask, SQLAlchemy~~
 * ~~Go~~
 * __JS__, Ajax, jQuery/UI, PrototypeJs, RequireJs, KnockoutJS, React JS, ~~NodeJS (Express), VueJS~~
-* HTML, CSS Sass/LESS, Skeleton CSS, Bootstrap
+* ~~HTML,CSS Sass/LESS, Skeleton CSS, Bootstrap~~
 * DB: __MySQL__, MariaDB, ~~MongoDB~~, Redis
 * CMS: __Magento 1.x/2.x/Cloud__, ~~Wordpress~~
 * API: XML, SOAP, REST, Sales Force, __GraphQL__
