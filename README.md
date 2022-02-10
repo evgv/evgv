@@ -94,7 +94,7 @@ __Responsibilities:__
 #### 2018 – 2020 - PHP / Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/) / outstaff [Astound Commerce](https://astoundcommerce.com/) / Fulltime / Remote) 
 
 __Description:__
-Development and support of online stores for a huge multinational company with a worldwide reputation (name was slipped because of NDA).
+Development and support of online stores for a huge multinational company with a worldwide reputation (name was skipped because of NDA).
 We were engaged in the representations of e-commerce team for half of the European countries, Denmark, New Zealand, Mexico, Russia and Kazakhstan.
 Development was in a huge team, which in turn was divided into departments, I was engaged in backend development for this project.
 Basically, it was the development of individual modules and integration with third-party services.
