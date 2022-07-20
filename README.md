@@ -26,7 +26,7 @@ A professional developer with 7+ years of experience
 
 ### Key skills:
 
-* __PHP__ (5.x,7.x), ZF, ~~Laravel~~
+* __PHP__ (5.x,7.x), ZF, Symfony ~~Laravel~~
 * ~~Python, Flask, SQLAlchemy~~
 * ~~Go~~
 * __JS__, Ajax, jQuery/UI, PrototypeJs, RequireJs, KnockoutJS, React JS, ~~NodeJS (Express), VueJS~~
@@ -36,12 +36,13 @@ A professional developer with 7+ years of experience
 * API: XML, SOAP, REST, Sales Force, __GraphQL__
 * Web Server: Lighttpd, __Apache__, __Nginx__, GO HTTP
 * Search Engine: Elasticsearch, Sphinx
-* OS:  __Linux (deb/rpm)__, Windows
+* OS:  __Linux (deb/rpm)__, Mac, Windows
 * VCS: Git
 * DM:  Composer, npm, yarn
-* Toolkit:  Gulp, Grant, Bower
+* Toolkit: Gulp, Grant, Bower
 * Env: VMware, Oracle VM Box, Vagrant, __Docker__
 * SEP: OOP, KISS, DRY, SOLID
+* CI/CD: Bamboo, Jenkins
 * SDP: Agile, SCRUM, Kanban
 * Cloud: Fastly, AWS, Magento Cloud
 * Other: Varnish
@@ -53,14 +54,27 @@ Key skills legend
 
 ### Work experience: 
 
-#### 2021 - nowadays - PHP / Softwear Engineer ([Ciklum](https://www.ciklum.com/) / outstaff [Chantelle](https://group.chantellelingerie.com/) Fulltime / Remote)
+
+#### 2022 - nowadays - PHP / Softwear Engineer (Contract / Remote)
+__Description:__
+Mostly technical support and maitenance for a bunch of various projects with partially engagement into Magento migrations M1/M2 -> M2 and 3rd party srvices implementation.
+
+__Technologies:__ PHP 5.x / 7.x / 8.x, MySQL 5.x, CMS Magento 2.x, Knockout JS, Npm / Yarn / REST, Redis, Docker, Nginx, Git, BB, Mac, Jira, Bamboo, SCRUM
+
+__Responsibilities:__
+* M1 -> M2 migration;
+* M2 -> M2 migration;
+* Reactive Support;
+* Extension development;
+* Integration of 3rd party applications.
+
+#### 2021 - 2022 - PHP / Softwear Engineer ([Ciklum](https://www.ciklum.com/) / outstaff [Chantelle](https://group.chantellelingerie.com/) Fulltime / Remote)
 __Description:__
 I joined the project during the first iteration of migration M1 stores to M2 there my team and me have been challenging the whole time till release but managed it successfully.
 
 Also I was engaged into very sensitive part of the project, Payment :)
 
 Afters successfull release I was moved to sub-team that only works on migrations because we still had a lot of work and websites that needed to be migrated / merged (it's an additional big story) into our brand new main website.
-
 
 __Technologies:__ PHP 5.x/ 7.x, MySQL 5.x, CMS Magento EE 2.x / Magento Cloud, React JS, Npm / Yarn, GraphQL / REST, Redis, Docker, Nginx, Git, BB, Ubuntu, Jira, SCRUM
 
