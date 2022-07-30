@@ -26,15 +26,13 @@ A professional developer with 7+ years of experience
 
 ### Key skills:
 
-* __PHP__ (5.x,7.x), ZF, Symfony ~~Laravel~~
-* ~~Python, Flask, SQLAlchemy~~
-* ~~Go~~
-* __JS__, Ajax, jQuery/UI, PrototypeJs, RequireJs, KnockoutJS, React JS, ~~NodeJS (Express), VueJS~~
-* ~~HTML,CSS Sass/LESS, Skeleton CSS, Bootstrap~~
-* DB: __MySQL__, MariaDB, ~~MongoDB~~, Redis
-* CMS: __Magento 1.x/2.x/Cloud__, ~~Wordpress~~
+* __PHP__ (5.x,7.x), ZF, Symfony
+* __JS__, Ajax, jQuery/UI, PrototypeJs, RequireJs, KnockoutJS, React JS
+* Styling: CSS, Sass/LESS, Skeleton CSS, Bootstrap
+* DB: __MySQL__, MariaDB, Redis
+* CMS: __Magento 1.x/2.x/Cloud__
 * API: XML, SOAP, REST, Sales Force, __GraphQL__
-* Web Server: Lighttpd, __Apache__, __Nginx__, GO HTTP
+* Web Server: Lighttpd, __Apache__, __Nginx__
 * Search Engine: Elasticsearch, Sphinx
 * OS:  __Linux (deb/rpm)__, Mac, Windows
 * VCS: Git
@@ -44,13 +42,8 @@ A professional developer with 7+ years of experience
 * SEP: OOP, KISS, DRY, SOLID
 * CI/CD: Bamboo, Jenkins
 * SDP: Agile, SCRUM, Kanban
-* Cloud: Fastly, AWS, Magento Cloud
+* Cloud: Fastly, AWS, _Magento Cloud_
 * Other: Varnish
-
-Key skills legend
-
- - ~~skill~~ - not using now
- - __bold__ - main stack
 
 ### Work experience: 
 
