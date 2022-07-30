@@ -26,7 +26,7 @@ A professional developer with 7+ years of experience
 
 ### Key skills:
 
-* __PHP__ (5.x,7.x), ZF, Symfony
+* __PHP__ (5.x,7.x,8.x), ZF, Symfony
 * __JS__, Ajax, jQuery/UI, PrototypeJs, RequireJs, KnockoutJS, React JS
 * Styling: CSS, Sass/LESS, Skeleton CSS, Bootstrap
 * DB: __MySQL__, MariaDB, Redis
