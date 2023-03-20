@@ -206,8 +206,7 @@ __Responsibilities:__
 ### Languages
 
 * Ukranian - Native
-* Russian - Native
-* English - Intermediate
+* English - Upper-Intermediate
 
 
 ### Interests
