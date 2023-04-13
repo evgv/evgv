@@ -48,11 +48,23 @@ A professional developer with 7+ years of experience
 ### Work experience: 
 
 
+
+#### 2022 - nowadays - PHP / Technical Lead (Part-time / Remote)
+__Description:__ 
+
+__Technologies:__ PHP 7.x, MySQL 8.x, CMS Magento 2.x, REST, Redis, Varnish, Docker, Nginx, Git, BB, Mac, Jira, Jenkins,AWS, Kibana, SCRUM
+
+__Responsibilities:__
+* Requirements analysis and technical design of the software solutions in collaboration with the development team;
+* Team leadership, mentoring the developers;
+* Responsible for major technical decisions in the development process;
+* Software quality assurance (audits, code reviews, testing, etc).
+
 #### 2022 - nowadays - PHP / Softwear Engineer (Contract / Remote)
 __Description:__
 Mostly technical support and maitenance for a bunch of various projects with partially engagement into Magento migrations M1/M2 -> M2 and 3rd party srvices implementation.
 
-__Technologies:__ PHP 5.x / 7.x / 8.x, MySQL 5.x, CMS Magento 2.x, Knockout JS, Npm / Yarn / REST, Redis, Docker, Nginx, Git, BB, Mac, Jira, Bamboo, SCRUM
+__Technologies:__ PHP 5.x / 7.x / 8.x, MySQL 5.x / 8.x, CMS Magento, Adobe Commerce, Knockout JS, Npm / Yarn / REST, Redis, Docker, Nginx, Varnish, Git, BB, Mac, Jira, Bamboo, SCRUM
 
 __Responsibilities:__
 * M1 -> M2 migration;
@@ -98,7 +110,7 @@ __Responsibilities:__
 * Framework customization;
 * Code standards creation.
 
-#### 2018 – 2020 - PHP / Magento  developer / Team Lead  ([Svitla Systems, Inc.](https://svitla.com/) / outstaff [Astound Commerce](https://astoundcommerce.com/) / Fulltime / Remote) 
+#### 2018 – 2020 - PHP / Magento  developer / Technical Lead  ([Svitla Systems, Inc.](https://svitla.com/) / outstaff [Astound Commerce](https://astoundcommerce.com/) / Fulltime / Remote) 
 
 __Description:__
 Development and support of online stores for a huge multinational company with a worldwide reputation (name was skipped because of NDA).
