@@ -2,7 +2,7 @@
 
 # Eugene Zubkov
 ### Web Developer | E-commerce Expert | Magento Specialist
-A professional developer with 7+ years of experience
+A professional developer with 8+ years of experience
     
        
           
@@ -49,8 +49,9 @@ A professional developer with 7+ years of experience
 
 
 
-#### 2022 - nowadays - PHP / Technical Lead (Part-time / Remote)
+#### 3rd quarter 2022 - nowadays - PHP / Technical Lead (Part-time / Remote)
 __Description:__ 
+Lead of the development team of E-commerce product
 
 __Technologies:__ PHP 7.x, MySQL 8.x, CMS Magento 2.x, REST, Redis, Varnish, Docker, Nginx, Git, BB, Mac, Jira, Jenkins,AWS, Kibana, SCRUM
 
