@@ -43,7 +43,8 @@ A professional developer with 8+ years of experience
 * CI/CD: Bamboo, Jenkins
 * SDP: Agile, SCRUM, Kanban
 * Cloud: Fastly, AWS, _Magento Cloud_
-* Other: Varnish
+* PIM: _Akeneo_, Pimberly
+* Other: Varnish, Factfinder
 
 ### Work experience: 
 
@@ -51,9 +52,9 @@ A professional developer with 8+ years of experience
 
 #### 3rd quarter 2022 - nowadays - PHP / Technical Lead (Part-time / Remote)
 __Description:__ 
-Lead of the development team of E-commerce product
+Lead of the development team of the e-commerce product
 
-__Technologies:__ PHP 7.x, MySQL 8.x, CMS Magento 2.x, REST, Redis, Varnish, Docker, Nginx, Git, BB, Mac, Jira, Jenkins,AWS, Kibana, SCRUM
+__Technologies:__ PHP 7.x / 8.x, MySQL 8.x, MariaDB 10.x CMS Magento 2.x, Akeneo, REST, Redis, Varnish, Docker, Nginx, Git, BB, Mac, Jira, Jenkins, AWS, Kibana, SCRUM
 
 __Responsibilities:__
 * Requirements analysis and technical design of the software solutions in collaboration with the development team;
@@ -65,7 +66,7 @@ __Responsibilities:__
 __Description:__
 Mostly technical support and maitenance for a bunch of various projects with partially engagement into Magento migrations M1/M2 -> M2 and 3rd party srvices implementation.
 
-__Technologies:__ PHP 5.x / 7.x / 8.x, MySQL 5.x / 8.x, CMS Magento, Adobe Commerce, Knockout JS, Npm / Yarn / REST, Redis, Docker, Nginx, Varnish, Git, BB, Mac, Jira, Bamboo, SCRUM
+__Technologies:__ PHP 5.x / 7.x / 8.x, MySQL 5.x / 8.x, CMS Magento, Adobe Commerce, Knockout JS, Npm / Yarn / ReactJS / REST, Redis, Docker, Nginx, Varnish, Git, BB, Mac, Jira, Bamboo, SCRUM
 
 __Responsibilities:__
 * M1 -> M2 migration;
