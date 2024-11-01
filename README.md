@@ -50,11 +50,11 @@ A professional developer with 8+ years of experience
 
 
 
-#### 3rd quarter 2022 - nowadays - PHP / Technical Lead (Part-time / Remote)
+#### 3rd quarter 2022 - nowadays - PHP / Technical Lead / Software Architect (Part-time / Remote)
 __Description:__ 
 Lead of the development team of the e-commerce product
 
-__Technologies:__ PHP 7.x / 8.x, MySQL 8.x, MariaDB 10.x CMS Magento 2.x, Akeneo, REST, Redis, Varnish, Docker, Nginx, Git, BB, Mac, Jira, Jenkins, AWS, Kibana, SCRUM
+__Technologies:__ PHP 7.x / 8.x, MySQL 8.x, MariaDB 10.x CMS Magento 2.x, Akeneo, REST, Redis / KeyDB, Varnish, Docker, Nginx, Git, BB, Mac, Jira, Jenkins, AWS, Kibana, SCRUM
 
 __Responsibilities:__
 * Requirements analysis and technical design of the software solutions in collaboration with the development team;
@@ -62,7 +62,7 @@ __Responsibilities:__
 * Responsible for major technical decisions in the development process;
 * Software quality assurance (audits, code reviews, testing, etc).
 
-#### 2022 - nowadays - PHP / Softwear Engineer (Contract / Remote)
+#### 2022 - 3rd quarter 2014 - PHP / Softwear Engineer ([MOBILUNITY](https://mobilunity.com/) / outstaff [CTI Digital](https://www.ctidigital.com/) Fulltime / Remote)
 __Description:__
 Mostly technical support and maitenance for a bunch of various projects with partially engagement into Magento migrations M1/M2 -> M2 and 3rd party srvices implementation.
 
