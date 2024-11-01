@@ -25,7 +25,7 @@ A professional developer with 8+ years of experience
 * __PHP__ (5.x/7.x/8.x), ZF, Symfony
 * __JS__, Ajax, jQuery/UI, PrototypeJs, RequireJs, KnockoutJS, React JS
 * Styling: CSS, Sass/LESS, Skeleton CSS, Bootstrap
-* DB: __MySQL__, MariaDB, Redis
+* DB: __MySQL__, MariaDB, Redis / KeyDB
 * CMS: __Magento 1.x/2.x/Cloud__
 * API: XML, SOAP, REST, Sales Force, __GraphQL__
 * Web Server: Lighttpd, __Apache__, __Nginx__
