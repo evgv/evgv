@@ -17,7 +17,7 @@ A professional developer with 8+ years of experience
 * [HackerRank](https://www.hackerrank.com/evgvzubkoff)
 
 #### Creative media
-* [Instagram](https://www.instagram.com/evgvzubkoff/)
+* [YouTube](https://www.youtube.com/@evgvzubkoff)
 
 #### Contacts
 * Skype: `zubkoff91`
@@ -226,7 +226,6 @@ __Responsibilities:__
 ### Hobby
 
  * Swim / Bike / Run
- * [YouTube](https://www.youtube.com/@evgvzubkoff)
 
 ### Other
 
