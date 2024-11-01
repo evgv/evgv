@@ -209,30 +209,25 @@ __Responsibilities:__
 
 ### Personal projects
 
-* [ACM](https://www.npmjs.com/package/advanced-cookie-manager) - Small client-side javascript library that makes managing cookies easy.
-* [UA Cities (demo)](https://ua-cities.herokuapp.com/)
+* [GitHub](https://github.com/evgv?tab=repositories)
 
-* [Magento 1.x - Google Dynamic Remarketing](https://github.com/evgv/magento-google-dynamic-remarketing) 
-* [Magento 1.x - Privatbank Privat24 Payment](https://github.com/evgv/magento-p24-acquire)
-
-* [Other](https://github.com/evgv?tab=repositories)
 
 ### Languages
 
 * Ukranian - Native
-* English - Upper-Intermediate
+* English - Advanced
 
 
 ### Interests
+
 * Ecom
 * JAM stack
 
 ### Hobby
 
- * Swim
- * Bike
- * Run
-
+ * Swim / Bike / Run
+ * [YouTube](https://www.youtube.com/@evgvzubkoff)
 
 ### Other
+
  * [Eugene Zubkov Talks About Magento 2 & The Ecommerce Industry](https://www.cloudways.com/blog/eugene-zubkov-interview/)
