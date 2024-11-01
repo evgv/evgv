@@ -19,10 +19,6 @@ A professional developer with 8+ years of experience
 #### Creative media
 * [YouTube](https://www.youtube.com/@evgvzubkoff)
 
-#### Contacts
-* Skype: `zubkoff91`
-
-
 
 ### Key skills:
 
